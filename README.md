@@ -23,3 +23,4 @@ and returns control to the system BIOS. Demonstrates how to create and checksum 
    ```bash
    git clone https://github.com/DanielLundDev/LegacyOptionRom.git
    cd LegacyOptionRom
+   ./build.sh
